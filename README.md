@@ -1,1 +1,1 @@
-# HEART-DISEASE-PREDICTION
+# Skin Disease Prediction
